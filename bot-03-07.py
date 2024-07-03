@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-import telebot
 
+## ссылка на гайд https://habr.com/ru/articles/697052/
+
 ## СНАЧАЛА УСТАНОВИТЕ БИБЛИОТЕКУ
 # pip3 install pytelegrambotapi
 # или pip install pytelegrambotapi
-
 
 from telebot import types
 
